@@ -1,4 +1,5 @@
 [Joe Coffee: The Daily](https://amzn.to/4enOokj)
+[Kalita Wave](https://amzn.to/3TLFwNa)
 
 
 This repo contains a [Quarto book](https://quarto.org/docs/books/) template for the EDAV final project.
